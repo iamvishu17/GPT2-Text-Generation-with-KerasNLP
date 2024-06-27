@@ -97,7 +97,9 @@ We welcome contributions to this project! To contribute, follow these steps:
 
 
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [vtakale91@gmail.com
+](mailto:vtakale91@gmail.com
+).
 
 ---
 
